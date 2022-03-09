@@ -43,7 +43,7 @@ async def help(ctx: dis.InteractionContext):
             fields=[
                 dis.EmbedField(
                     "Help Menu",
-                    "Below is some buttons that will guide you through some features of the bot.",
+                    "Bellow is some buttons that will guide you through some features of the bot.",
                 ).to_dict(),
             ],
         ),
